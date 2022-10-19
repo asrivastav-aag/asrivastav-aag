@@ -1,5 +1,8 @@
 <h3 align="center">Beginner Level Network Automation Engineer (ITS NetOps)</h3>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asrivastav-aag" alt="asrivastav-aag" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asrivastav-aag&label=Profile%20views&color=0e75b6&style=flat" alt="asrivastav-aag" /> </p>
 
 🌱 I’m currently learning **Python, Ansible, CI/CD**
