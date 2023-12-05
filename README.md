@@ -1,8 +1,5 @@
-<h3 align="center">Network Reliability Engineer (ITS)</h3>
+<h3 align="center">Network Reliability & Automation (ITS)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asrivastav-aag&label=Profile%20views&color=0e75b6&style=flat" alt="asrivastav-aag" /> </p>
-
-🌱 I’m currently learning **Python, Ansible, CI/CD**
 
 
 <h3 align="left">Languages and Tools:</h3>
